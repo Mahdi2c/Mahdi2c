@@ -12,4 +12,4 @@
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi2c&repo=personal-website&theme=gruvbox)](https://github.com/Mahdi2c/Personal-Website) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&theme=gruvbox&layout=compact)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi2c&repo=personal-website&theme=gruvbox)](https://github.com/Mahdi2c/Personal-Website) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&theme=gruvbox&layout=compact)
