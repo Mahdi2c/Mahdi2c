@@ -7,6 +7,6 @@
 - 😃 Visit my Linkedin: https://www.linkedin.com/in/mahdi2c/
 
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&layout=compact)](https://github.com/mahdi2c/github-readme-stats)
