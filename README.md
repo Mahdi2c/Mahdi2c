@@ -9,4 +9,4 @@
 
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&layout=compact&theme=dark&count_private=true)](https://github.com/mahdi2c/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&theme=dark)](https://github.com/mahdi2c/github-readme-stats)
