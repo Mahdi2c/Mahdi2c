@@ -8,8 +8,18 @@
 
 <br/>
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true&theme=gruvbox)   
+<div align="center">
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true&theme=gruvbox" alt="Stats Image" />
+  </p>
+</div>
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahdi2c&repo=personal-website&theme=gruvbox)](https://github.com/Mahdi2c/Personal-Website) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&theme=gruvbox&layout=compact)
+<div align="center">
+  <p>
+  <a href = "https://mahdi2c.github.io/Personal-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mahdi2c&repo=personal-website&theme=gruvbox" alt="Repo Image" /></a>
+  &nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2c&theme=gruvbox&layout=compact" alt="Repo Image" />
+  </p>
+</div>
