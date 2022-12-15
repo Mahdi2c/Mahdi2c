@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 - How to reach me: mahdi2c.professional@hotmail.com
 - Check out my website: https://mahdi2c.github.io/Personal-Website/
