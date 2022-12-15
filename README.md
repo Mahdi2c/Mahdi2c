@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: mahdi2c.professional@hotmail.com
-- 📌 Check out my website: https://mahdi2c.github.io/Personal-Website/
-- 😃 Visit my Linkedin: https://www.linkedin.com/in/mahdi2c/
+- How to reach me: mahdi2c.professional@hotmail.com
+- Check out my website: https://mahdi2c.github.io/Personal-Website/
+- Visit my Linkedin: https://www.linkedin.com/in/mahdi2c/
 
 <br/>
 
