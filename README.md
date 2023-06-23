@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi2c&count_private=true&theme=gruvbox" alt="Stats Image" />
-  </p>
-</div>
-
 <br/>
 
 <div align="center">
